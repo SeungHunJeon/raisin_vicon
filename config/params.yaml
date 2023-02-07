@@ -1,0 +1,12 @@
+vicon_streaming_rate:
+  value: 300
+  dtype: double
+
+host_address:
+  value: "192.168.0.3"
+  dtype: string
+
+buffer_size:
+  value: 200
+  dtype: int
+
